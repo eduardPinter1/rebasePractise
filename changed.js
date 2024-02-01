@@ -1,1 +1,1 @@
-let something
+let something = 10;
