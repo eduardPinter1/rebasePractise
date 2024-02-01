@@ -1,1 +1,1 @@
-let rebase;
+let rebase = true;
